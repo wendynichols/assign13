@@ -15,5 +15,5 @@
   var rendered = Handlebars.templates['albums'];
 
 
-    // Append to my book
+    // Append to my album
   $('#albums').append( rendered(library) );
